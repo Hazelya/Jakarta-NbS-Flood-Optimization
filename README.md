@@ -1,7 +1,7 @@
 # Optimizing Nature-Based Solutions for Flood Management in Jakarta : A Multi-Criteria and Spatial Approach 
 
 ![QGIS](https://img.shields.io/badge/qgis-93b023?&style=for-the-badge&logo=qgis&logoColor=white)
-![OpenStreetMap](https://img.shields.io/badge/google%20earth%20engine-blue?style=for-the-badge&logo=googleearthengine&logoColor=white)
+![GoogleEarthEngine](https://img.shields.io/badge/google%20earth%20engine-blue?style=for-the-badge&logo=googleearthengine&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
