@@ -24,7 +24,7 @@ Compliquer à trouver donc je les mets à dispo
 
 #### Google earth engine
 
-Expliquer comment utiliser
+Expliquer comment utiliser le code
 
 https://code.earthengine.google.com
 
